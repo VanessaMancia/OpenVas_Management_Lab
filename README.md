@@ -190,6 +190,10 @@ Save
 
 ### After the credentialed scan finishes, you can immediately see the difference in findings:
 
+<img width="1357" alt="image" src="https://github.com/VanessaMancia/OpenVas_Management_Lab/assets/112146207/3c0f94b4-72bc-4820-9cf1-5ff5c1c9e5e4">
+
+
+
 
 
 
