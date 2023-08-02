@@ -110,11 +110,15 @@ Go to "window defender firewall properties" and click on "off" for each category
 
 <img width="419" alt="image" src="https://github.com/VanessaMancia/OpenVas_Management_Lab/assets/112146207/8452811d-6869-4d33-a38a-f40f83ad4add">
 
+#### Go back to openVAS and once you put in the private IP address we will create a new target from the host and name it "Azure Vulnerable VMs" 
 
+---
 
-#### 
+#### We will create a new task by going to Scans → Tasks → New Tasks
 
+<img width="808" alt="image" src="https://github.com/VanessaMancia/OpenVas_Management_Lab/assets/112146207/29a66dbb-5f32-493b-8638-f245b57b4a80">
 
+#### "Start" the "Scan - Azure Vulnerable VMs" Task 
 
 
 
