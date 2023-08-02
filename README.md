@@ -125,7 +125,28 @@ Go to "window defender firewall properties" and click on "off" for each category
 
 ---
 
+#### Once we open the report we can see that none of our super vulnerable stuff is showing. For example, the old software we downloaded and installed into our windows-vm. 
 
+
+<img width="1435" alt="image" src="https://github.com/VanessaMancia/OpenVas_Management_Lab/assets/112146207/52f5f2ea-96bd-4250-bd4e-1c1f03c9ea83">
+
+---
+
+### We will now make configurations for credentialized scans (within VM) 
+
+#### We are going to RDP into our Windows-VM and disable user account control. 
+
+
+<img width="835" alt="image" src="https://github.com/VanessaMancia/OpenVas_Management_Lab/assets/112146207/6626b986-4627-4404-a1b0-f60758326378">
+
+---
+
+#### Let's enable remote registry 
+
+### Go to services app and find "remote registry" and set it to automatic. 
+
+
+<img width="835" alt="image" src="https://github.com/VanessaMancia/OpenVas_Management_Lab/assets/112146207/8ff39c2d-420b-4c65-a783-e3ad082ab7a2">
 
 
 
