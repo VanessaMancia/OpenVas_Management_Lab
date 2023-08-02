@@ -192,7 +192,9 @@ Save
 
 <img width="1357" alt="image" src="https://github.com/VanessaMancia/OpenVas_Management_Lab/assets/112146207/3c0f94b4-72bc-4820-9cf1-5ff5c1c9e5e4">
 
+<img width="1440" alt="image" src="https://github.com/VanessaMancia/OpenVas_Management_Lab/assets/112146207/d55121c8-7b37-463d-900e-dc8ddf7a39ac">
 
+---
 
 
 
