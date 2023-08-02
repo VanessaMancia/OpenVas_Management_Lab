@@ -195,6 +195,15 @@ Save
 <img width="1440" alt="image" src="https://github.com/VanessaMancia/OpenVas_Management_Lab/assets/112146207/d55121c8-7b37-463d-900e-dc8ddf7a39ac">
 
 ---
+<details close>
+
+
+### Remediate Vulnerabilities
+
+#### Log back into your Win10-Vulnerable VM and go to "control panel" to uninstall all the old software that was previously installed. 
+
+<img width="1127" alt="image" src="https://github.com/VanessaMancia/OpenVas_Management_Lab/assets/112146207/10d74455-924f-40f3-94c4-6ca596d1ca31">
+
 
 
 
