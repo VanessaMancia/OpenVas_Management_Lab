@@ -75,14 +75,33 @@
 
 ---
 
-#### We are now going to disable the windows firewall. Type in wf.msc 
+#### We are now going to disable the windows firewall. Type in wf.msc
 
 <img width="895" alt="image" src="https://github.com/VanessaMancia/OpenVas_Management_Lab/assets/112146207/a5dd9f31-816b-4d36-8103-1fbd6935a49b">
 
-Go to "window defender firewall properties" and click on "off" for each category then hit "okay" and "apply" 
+Go to "window defender firewall properties" and click on "off" for each category then hit "okay" and "apply." 
 
 <img width="895" alt="image" src="https://github.com/VanessaMancia/OpenVas_Management_Lab/assets/112146207/85fcc337-22df-4f97-8065-cdd1c539caeb">
 
+
+---
+
+#### Let's download and install some old software.
+
+<img width="1249" alt="image" src="https://github.com/VanessaMancia/OpenVas_Management_Lab/assets/112146207/02e3673c-b4cd-4c96-8588-ba5ff74dbd16">
+
+#### Now we will restart our VM and leave it alone for a bit. 
+
+---
+
+<details close>
+
+
+### We will configure and openVAS to perform first unauthenticated scan against our vulnerable VM. 
+
+#### Unauthenticated means that the vulnerability management platform won't attempt to log into the computer and really look in depth at it. It will scan it from a superficial level from the network. 
+
+#### We are going to use our previous link form before to open openVAS.
 
 
 
