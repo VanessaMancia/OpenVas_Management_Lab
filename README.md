@@ -118,7 +118,16 @@ Go to "window defender firewall properties" and click on "off" for each category
 
 <img width="808" alt="image" src="https://github.com/VanessaMancia/OpenVas_Management_Lab/assets/112146207/29a66dbb-5f32-493b-8638-f245b57b4a80">
 
-#### "Start" the "Scan - Azure Vulnerable VMs" Task 
+#### "Start" the "Scan - Azure Vulnerable VMs" Task. Once done click where it says last report. 
+
+
+<img width="1435" alt="image" src="https://github.com/VanessaMancia/OpenVas_Management_Lab/assets/112146207/82ad05da-87dd-4929-8768-b1154f179753">
+
+---
+
+
+
+
 
 
 
