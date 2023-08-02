@@ -155,6 +155,17 @@ Go to "window defender firewall properties" and click on "off" for each category
 
 <img width="835" alt="image" src="https://github.com/VanessaMancia/OpenVas_Management_Lab/assets/112146207/302213ab-d5e8-406a-89a3-832b4723747c">
 
+---
+
+<details close>
+
+### Make Configurations for Credentialed Scans (OpenVAS)
+
+#### Go to Configuration → Credentials → New Credential
+Name / Comment → “Azure VM Credentials”
+
+
+<img width="835" alt="image" src="https://github.com/VanessaMancia/OpenVas_Management_Lab/assets/112146207/574cd5d4-3151-4a17-b259-018b4f6091fd">
 
 
 
