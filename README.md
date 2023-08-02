@@ -167,6 +167,29 @@ Name / Comment → “Azure VM Credentials”
 
 <img width="835" alt="image" src="https://github.com/VanessaMancia/OpenVas_Management_Lab/assets/112146207/574cd5d4-3151-4a17-b259-018b4f6091fd">
 
+---
+
+### Go to Configuration → Targets → CLONE the Target we made before NEW Name / Comment: “Azure Vulnerable VMs - Credentialed Scan” Ensure the Private IP is still accurate Credentials → SMB → Select the Credentials we just made: Azure VM Credentials
+Save
+
+--- 
+
+<details close>
+
+#### Execute Credentialed Scan against our Vulnerable Windows VM
+
+### Within Greenbone / OpenVAS, go to Scans → Tasks and fill the rest out like you see below.
+
+
+<img width="835" alt="image" src="https://github.com/VanessaMancia/OpenVas_Management_Lab/assets/112146207/0d640b38-02ba-41e2-ae6e-245be92f67c9">
+
+---
+
+### Click the Play button to launch the new Credentialed Scan, wait for it to finish. It will take longer than the last one.
+
+
+### After the credentialed scan finishes, you can immediately see the difference in findings:
+
 
 
 
