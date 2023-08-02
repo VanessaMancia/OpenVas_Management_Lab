@@ -148,6 +148,12 @@ Go to "window defender firewall properties" and click on "off" for each category
 
 <img width="835" alt="image" src="https://github.com/VanessaMancia/OpenVas_Management_Lab/assets/112146207/8ff39c2d-420b-4c65-a783-e3ad082ab7a2">
 
+---
+
+#### We will set the registry key and once done we will close the registry and restart the VM. 
+
+
+<img width="835" alt="image" src="https://github.com/VanessaMancia/OpenVas_Management_Lab/assets/112146207/302213ab-d5e8-406a-89a3-832b4723747c">
 
 
 
