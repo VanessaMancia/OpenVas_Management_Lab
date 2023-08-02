@@ -204,8 +204,13 @@ Save
 
 <img width="1127" alt="image" src="https://github.com/VanessaMancia/OpenVas_Management_Lab/assets/112146207/10d74455-924f-40f3-94c4-6ca596d1ca31">
 
+---
+
+### Verify Remediations
+#### Re-initiate the “Scan - Azure Vulnerable VMs - Credentialed” scan and observe the results.
 
 
+<img width="1440" alt="image" src="https://github.com/VanessaMancia/OpenVas_Management_Lab/assets/112146207/59263043-6964-4235-8a1e-623cd84b6961">
 
 
 
