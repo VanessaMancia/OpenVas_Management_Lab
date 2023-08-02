@@ -101,9 +101,18 @@ Go to "window defender firewall properties" and click on "off" for each category
 
 #### Unauthenticated means that the vulnerability management platform won't attempt to log into the computer and really look in depth at it. It will scan it from a superficial level from the network. 
 
-#### We are going to use our previous link form before to open openVAS.
+---
+
+#### We are going to use our previous link form before to openVAS. Once you are logged in go to Assets → Hosts → New Host
 
 
+#### Now go to Azure and find your Windows machine and search for the private IP address under networking. 
+
+<img width="419" alt="image" src="https://github.com/VanessaMancia/OpenVas_Management_Lab/assets/112146207/8452811d-6869-4d33-a38a-f40f83ad4add">
+
+
+
+#### 
 
 
 
